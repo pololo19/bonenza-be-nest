@@ -1,0 +1,11 @@
+export const CACHE_RECENT_BIG_WINS_KEY = 'dashboard:recent_big_wins';
+export const CACHE_TOP_RATED_GAMES_KEY = 'dashboard:top_rated_games';
+export const CACHE_SLOTS_KEY = 'dashboard:slots';
+export const CACHE_HOT_GAMES_KEY = 'dashboard:hot_games';
+export const CACHE_LIVE_CASINO_KEY = 'dashboard:live_casino';
+export const CACHE_NEW_RELEASES_KEY = 'dashboard:new_releases';
+export const CACHE_BLACKJACKS_KEY = 'dashboard:blackjacks';
+export const CACHE_TABLE_GAMES_KEY = 'dashboard:table_games';
+export const CACHE_GAME_PROVIDERS_KEY = 'dashboard:game_providers';
+export const CACHE_THEMES_KEY = 'dashboard:themes';
+export const CACHE_RECOMMENDED_GAMES_KEY = 'dashboard:recommended_games';

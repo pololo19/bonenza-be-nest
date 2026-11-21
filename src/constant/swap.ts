@@ -1,0 +1,1 @@
+export const MINIMUM_BASE_AMOUNT_USD_FOR_SWAP = 5;

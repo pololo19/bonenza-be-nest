@@ -1,0 +1,5 @@
+export const MIN_TIP_AMOUNT_USD = 1;
+export const MAX_TIP_AMOUNT_USD = 5000;
+export const MIN_TIP_SENDER_VIP_LEVEL = 2;
+
+export const MIN_WITHDRAW_AMOUNT_USD_FOR_APPROVAL = 1000;
